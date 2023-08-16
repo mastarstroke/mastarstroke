@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mastarstroke
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning laravel
+- 👋 Hi, I’m James Adeyemo (Mastarstroke)
+- 👀 I’m a software developer
+- 🌱 My stack is Html, Css, Javascript, Bootstrap, Tailwind, VueJs, Mysql, Php and Laravel.
 - 💞️ I’m looking to collaborate on all problems that might comes with laravel basics
-- 📫 How to reach me mastarstroke@gmail.com
+- 📫 How to reach me princejames917@gmail.com
 
 <!---
 mastarstroke/mastarstroke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
