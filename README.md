@@ -1,10 +1,11 @@
-- 👋 Hi, I’m James Adeyemo (Mastarstroke)
-- 👀 I’m a software developer
-- 🌱 My stack:Javascript, VueJs, Mysql, SqlServer, Php and Laravel.
-- 💞️ I’m looking to collaborate on all problems that might comes with laravel basics and advance
-- 📫 How to reach me princejames917@gmail.com
+👋 Hi, I'm James Adeyemo, a passionate software developer with a knack for building dynamic, user-friendly web applications. I specialize in Laravel for backend development, Vue.js for crafting responsive frontends, and AJAX for seamless client-server communication.
 
-<!---
-mastarstroke/mastarstroke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Tech Stack:
+
+Backend: Laravel
+Frontend: Vue.js
+Communication: AJAX
+Database: MySQL, PostgreSQL
+🚀 I love solving complex problems and contributing to open-source projects. Always exploring new technologies and best practices to deliver efficient, scalable, and maintainable code.
+
+Let’s build something amazing together!
