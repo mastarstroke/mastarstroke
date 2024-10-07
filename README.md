@@ -5,7 +5,7 @@
 Backend: Laravel
 Frontend: Vue.js
 Communication: AJAX
-Database: MySQL, PostgreSQL
+Database: MySQL, SQLServer
 🚀 I love solving complex problems and contributing to open-source projects. Always exploring new technologies and best practices to deliver efficient, scalable, and maintainable code.
 
 Let’s build something amazing together!
