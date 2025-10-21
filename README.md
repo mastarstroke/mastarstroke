@@ -1,11 +1,21 @@
-👋 Hi, I'm James Adeyemo, a passionate software developer with a knack for building dynamic, user-friendly web applications. I specialize in Laravel for backend development, Vue.js for crafting responsive frontends, and AJAX for seamless client-server communication.
+👋 Hi, I'm James Adeyemo (mastarstroke)
 
-💻 Tech Stack:
+I'm a passionate Software Developer building dynamic, scalable, and user-friendly web applications. I thrive on solving complex problems and crafting clean, efficient, and maintainable code.
 
-Backend: Laravel
-Frontend: Vue.js
-Communication: AJAX
-Database: MySQL, SQLServer
-🚀 I love solving complex problems and contributing to open-source projects. Always exploring new technologies and best practices to deliver efficient, scalable, and maintainable code.
+💻 Tech Stack & Expertise
 
-Let’s build something amazing together!
+Backend: Laravel, Python (Django)
+
+Frontend: Vue.js, React.js
+
+Communication: AJAX, RESTful APIs
+
+Database: MySQL, SQL Server
+
+DevOps: CI/CD pipelines, Docker, GitHub Actions
+
+Architecture: Microservices, Cloud Deployments (AWS, DigitalOcean)
+
+🚀 I love exploring emerging technologies, contributing to open-source projects, and optimizing systems for performance and scalability.
+
+💬 Let’s collaborate and build something amazing together!
