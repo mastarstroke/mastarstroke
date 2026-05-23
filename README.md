@@ -4,13 +4,13 @@ I'm a passionate Software Developer building dynamic, scalable, and user-friendl
 
 💻 Tech Stack & Expertise
 
-Backend: Laravel, Python (Django)
+Backend: Laravel, Python (Django), NodeJs(Express)
 
 Frontend: Vue.js, React.js
 
 Communication: AJAX, RESTful APIs
 
-Database: MySQL, SQL Server
+Database: MySQL, SQL Server, PostgreSQL
 
 DevOps: CI/CD pipelines, Docker, GitHub Actions
 
